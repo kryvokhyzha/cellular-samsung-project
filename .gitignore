@@ -67,5 +67,8 @@ fastlane/readme.md
 # .wav files
 *.wav
 
+# .mp3 files
+*.mp3
+
 # IPython notebook files
 .ipynb_checkpoints/
