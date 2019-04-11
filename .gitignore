@@ -65,10 +65,14 @@ fastlane/test_output
 fastlane/readme.md
 
 # .wav files
-*.wav
+#*.wav
 
 # .mp3 files
-*.mp3
+#*.mp3
 
 # IPython notebook files
 .ipynb_checkpoints/
+output/.ipynb_checkpoints/
+output/Custom signal generator output/.ipynb_checkpoints/
+output/Sound transformer output/.ipynb_checkpoints/
+output/Voice signal generator output.ipynb_checkpoints/
