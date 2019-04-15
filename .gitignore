@@ -72,7 +72,3 @@ fastlane/readme.md
 
 # IPython notebook files
 .ipynb_checkpoints/
-output/.ipynb_checkpoints/
-output/Custom signal generator output/.ipynb_checkpoints/
-output/Sound transformer output/.ipynb_checkpoints/
-output/Voice signal generator output.ipynb_checkpoints/
